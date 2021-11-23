@@ -1,6 +1,12 @@
 # Atuki Maruta
  Hi I am Atsuki Maruta 👋
  
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=maruta14)
+ 
+ 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maruta14)
+ 
 ### 🌱 I’m currently learning 
 - Information retrieval
 - Visualizatoion
