@@ -1,4 +1,12 @@
-### Hi there 👋
+# Atuki Maruta
+ Hi I am Atsuki Maruta 👋
+ 
+### 🌱 I’m currently learning 
+- Information retrieval
+- Visualizatoion
+- Recommendation
+
+
 
 <!--
 **maruta14/maruta14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
